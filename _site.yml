@@ -1,4 +1,5 @@
 name: "Gian Lima"
+output_dir: "docs"
 navbar:
   title: "Gian Lima"
 left:
